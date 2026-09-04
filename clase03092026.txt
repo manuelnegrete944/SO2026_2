@@ -1,3 +1,3 @@
 no aprendí mucho hoy, pero logre crear un repositorio local y esta es la primera actualización.
 
-segunda actualización he podido navegar y crear una segunda actualización
+segunda actualización he podido navegar y crear una segunda actualización, esta es la tercera actualización en ete caso lo hice desde la terminal de git una vez inicias si practicas se e hace mas facil|x°X
