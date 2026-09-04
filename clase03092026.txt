@@ -1,1 +1,3 @@
-no aprendí mucho hoy, pero logre crear un repositorio local y esta es la primera actualizacion
+no aprendí mucho hoy, pero logre crear un repositorio local y esta es la primera actualización.
+
+segunda actualización he podido navegar y crear una segunda actualización
